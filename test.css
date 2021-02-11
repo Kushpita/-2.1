@@ -1,0 +1,17 @@
+.tree span:hover {
+  front-weight: bold;
+}
+.tree span {
+  cursor: pointer;
+}
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: blue;
+  background-color: #f2f4f6;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
